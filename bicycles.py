@@ -12,3 +12,9 @@ print(cars)
 
 del cars[1]
 print(cars)
+
+motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
+print(motorcycles)
+
+motorcycles.pop(2)
+print(motorcycles)
